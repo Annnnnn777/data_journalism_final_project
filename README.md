@@ -13,6 +13,18 @@ I find it very interesting that Hawaii has high percentages in both speeding and
 ### Geo Graph of Number of Drivers Involved in Fatal Collisions Per Billion
 ![geo graph of number of drivers involved in fatal collisions per billion](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6_dvEjr-7qVmyvMKspuv6FcyOJEMf4y_dnfMq3z8JMYt6jlDNtYvUd9LmcEmLx7VLAsdQAGmXaAZp/pubchart?oid=323128635&format=image)
 
-The states that have the most number of drivers involved in fatal collisions per billion are South Carolina and North Dakota which have 23.9 drivers. Closed behind are West Virginia and Arkansas, with data of 23.8 and 22.4. I wondered that whether high number of drivers involved in fatal collisions have relationship with the size of geography area. However, the graph I created did not show this relationship. 
+The states that have the most number of drivers involved in fatal collisions per billion are South Carolina and North Dakota which have 23.9 drivers. Closed behind are West Virginia and Arkansas, with data of 23.8 and 22.4. 
+
+95% of fital collisions happened in Hawaii are because of speeding and alcohol-impaired. 
+
+Iowa which has the lowest car insurance premium has the lowest percentage of fital collisions of speeding and alcohol-impaired. 
+
+I wondered that whether high number of drivers involved in fatal collisions have relationship with the size of geography area. However, the graph and the data set I created did not show this relationship. 
+
+States that have higher losses incurred by insurance companies for collisions per insured driver have higher car insurance premium. 
 
 I created several pivot tables and scatter charts, trying to see the relationship between drivers who had not been involved in any previous accidents and numbers of accident, speeding, and alcohol-impaired, but I found no relationship. Points are scattered in all graphs I created.
+
+Here are some of pivot tables I created:
+![pivot_table1](https://media.journalism.berkeley.edu/upload/2020/08/15971895898965827.png)
+![pivot_table2](https://media.journalism.berkeley.edu/upload/2020/08/15971896584cf82cf.png)
